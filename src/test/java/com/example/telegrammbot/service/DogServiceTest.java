@@ -1,8 +1,8 @@
 package com.example.telegrammbot.service;
 
-import js6team3.tbot.entity.Dog;
-import js6team3.tbot.exception.DogNullParameterValueException;
-import js6team3.tbot.repository.DogRepository;
+import com.example.telegrammbot.entity.Dog;
+import com.example.telegrammbot.exception.DogNullParameterValueException;
+import com.example.telegrammbot.repository.DogRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

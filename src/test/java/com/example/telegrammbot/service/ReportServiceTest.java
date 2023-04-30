@@ -1,8 +1,8 @@
 package com.example.telegrammbot.service;
 
-import js6team3.tbot.entity.report.Report;
-import js6team3.tbot.repository.report.ReportRepository;
-import js6team3.tbot.service.report.ReportService;
+import com.example.telegrammbot.entity.report.Report;
+import com.example.telegrammbot.repository.report.ReportRepository;
+import com.example.telegrammbot.service.report.ReportService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

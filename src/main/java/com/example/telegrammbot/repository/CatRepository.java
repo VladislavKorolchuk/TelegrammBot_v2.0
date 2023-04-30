@@ -1,6 +1,6 @@
 package com.example.telegrammbot.repository;
 
-import js6team3.tbot.entity.Cat;
+import com.example.telegrammbot.entity.Cat;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

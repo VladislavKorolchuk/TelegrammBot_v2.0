@@ -1,8 +1,8 @@
 package com.example.telegrammbot.telegram.timer;
 
 import com.pengrad.telegrambot.TelegramBot;
-import js6team3.tbot.service.CatService;
-import js6team3.tbot.service.DogService;
+import com.example.telegrammbot.service.CatService;
+import com.example.telegrammbot.service.DogService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

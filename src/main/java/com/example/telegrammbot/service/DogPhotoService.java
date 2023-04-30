@@ -1,9 +1,9 @@
 package com.example.telegrammbot.service;
 
-import js6team3.tbot.entity.Dog;
-import js6team3.tbot.entity.DogPhoto;
-import js6team3.tbot.repository.DogPhotoRepository;
-import js6team3.tbot.repository.DogRepository;
+import com.example.telegrammbot.entity.Dog;
+import com.example.telegrammbot.entity.DogPhoto;
+import com.example.telegrammbot.repository.DogPhotoRepository;
+import com.example.telegrammbot.repository.DogRepository;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

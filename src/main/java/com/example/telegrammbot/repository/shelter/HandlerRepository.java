@@ -1,6 +1,6 @@
 package com.example.telegrammbot.repository.shelter;
 
-import js6team3.tbot.entity.shelter.Handler;
+import com.example.telegrammbot.entity.shelter.Handler;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

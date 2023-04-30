@@ -3,7 +3,7 @@ package com.example.telegrammbot.MenuMaker;
 
 import com.pengrad.telegrambot.model.request.InlineKeyboardButton;
 import com.pengrad.telegrambot.model.request.InlineKeyboardMarkup;
-import js6team3.tbot.configuration.MenuDogDescription;
+import com.example.telegrammbot.configuration.MenuDogDescription;
 import org.springframework.stereotype.Component;
 
 @Component

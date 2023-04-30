@@ -7,8 +7,8 @@ import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.tags.Tag;
-import js6team3.tbot.entity.User;
-import js6team3.tbot.service.UserService;
+import com.example.telegrammbot.entity.User;
+import com.example.telegrammbot.service.UserService;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 

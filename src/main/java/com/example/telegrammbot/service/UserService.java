@@ -1,9 +1,9 @@
 package com.example.telegrammbot.service;
 
-import js6team3.tbot.entity.User;
-import js6team3.tbot.exception.UsersNullParameterValueException;
-import js6team3.tbot.exception.ValidationException;
-import js6team3.tbot.repository.UserRepository;
+import com.example.telegrammbot.entity.User;
+import com.example.telegrammbot.exception.UsersNullParameterValueException;
+import com.example.telegrammbot.exception.ValidationException;
+import com.example.telegrammbot.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

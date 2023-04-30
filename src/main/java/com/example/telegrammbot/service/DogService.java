@@ -1,9 +1,9 @@
 package com.example.telegrammbot.service;
 
-import js6team3.tbot.entity.Dog;
-import js6team3.tbot.exception.DogNullParameterValueException;
-import js6team3.tbot.exception.ValidationException;
-import js6team3.tbot.repository.DogRepository;
+import com.example.telegrammbot.entity.Dog;
+import com.example.telegrammbot.exception.DogNullParameterValueException;
+import com.example.telegrammbot.exception.ValidationException;
+import com.example.telegrammbot.repository.DogRepository;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

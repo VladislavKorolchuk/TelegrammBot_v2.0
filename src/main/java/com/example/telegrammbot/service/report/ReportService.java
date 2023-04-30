@@ -1,8 +1,8 @@
 package com.example.telegrammbot.service.report;
 
-import js6team3.tbot.entity.report.Report;
-import js6team3.tbot.exception.NullValueException;
-import js6team3.tbot.repository.report.ReportRepository;
+import com.example.telegrammbot.entity.report.Report;
+import com.example.telegrammbot.exception.NullValueException;
+import com.example.telegrammbot.repository.report.ReportRepository;
 import lombok.*;
 import org.springframework.stereotype.Service;
 

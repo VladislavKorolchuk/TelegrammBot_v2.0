@@ -1,8 +1,8 @@
 package com.example.telegrammbot.service;
 
-import js6team3.tbot.entity.shelter.Shelter;
-import js6team3.tbot.repository.shelter.ShelterRepository;
-import js6team3.tbot.service.shelter.ShelterService;
+import com.example.telegrammbot.entity.shelter.Shelter;
+import com.example.telegrammbot.repository.shelter.ShelterRepository;
+import com.example.telegrammbot.service.shelter.ShelterService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
