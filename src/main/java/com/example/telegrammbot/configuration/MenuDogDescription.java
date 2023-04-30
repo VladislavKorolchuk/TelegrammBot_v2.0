@@ -1,0 +1,24 @@
+package com.example.telegrammbot.configuration;
+
+public enum MenuDogDescription {
+    AboutPetShelterDocx,
+    SCHEDULE,
+    SAFETYRULES,
+    WRITECONTACS,
+    VOLUNTEERCALL,
+    CYNOLOGISTADVICE,
+    MENULISTOFDOCUMENTS,
+    CATSHELTERENTER,
+    DOGSHELTERENTER,
+    AboutPetShelter,
+    HOWTOTAKEDOG,
+
+    SENDDOGPHOTO,
+    DOGMEETINGRULES,
+    DOCSTOTAKEDOG,
+    DOGTRASPORTATION,
+    HOMEFORPUPPEY,
+    HOMEFORADULTDOG,
+    LIMITEDDOG,
+    REFUSE;
+}
